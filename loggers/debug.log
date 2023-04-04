@@ -1,0 +1,9 @@
+2023-04-04 11:37:27,314 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-04-04 11:38:39,729 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-04-04 11:38:44,624 hello.views  ERROR    Test YEP!!!
+2023-04-04 12:00:12,906 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-04-04 12:00:14,587 hello.views  ERROR    Test YEP!!!
+2023-04-04 12:00:33,164 hello.views  ERROR    Test YEP!!!
+2023-04-04 12:02:14,031 django.utils.autoreload INFO     C:\Users\jaikS\PycharmProjects\logger123\loggers\loggers\settings.py changed, reloading.
+2023-04-04 12:04:12,003 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-04-04 12:04:13,457 hello.views  ERROR    Test YEP!!!
